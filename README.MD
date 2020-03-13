@@ -10,7 +10,7 @@ git remote add origin git@github.com:ivantay2003/AppiumPythonBehave.git
 
 <br><br>
 To clone (or download):<br>
-https://github.com/ivantay2003/https://github.com/ivantay2003/AppiumPythonBehave.git
+git clone https://github.com/ivantay2003/AppiumPythonBehave.git
 
 
 <br><br><br>
